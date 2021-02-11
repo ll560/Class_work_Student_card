@@ -1,0 +1,26 @@
+/* whole-card */
+
+
+
+.jermaine-williams div {
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    border: 10px solid red;
+    margin: 50px; /*adds space outside the border*/ 
+    padding: 50px; /*adds space btw the border and the content*/
+}
+
+.border-property div {
+    height: 100px;
+    width: 100px;
+    border: 3px dotted green;
+    border-radius: 30%;
+    width: 40;
+}
+
+/* top of card*/
+
+
+
+/*  */
