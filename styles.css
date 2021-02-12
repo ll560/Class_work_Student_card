@@ -1,0 +1,52 @@
+
+
+/* whole-card */
+.border-property {
+    height: 30px;
+    width: 10px;
+    border: 30px dotted green;
+    border-radius: 30%;
+    width: 10;
+}
+
+.jermaine-williams {
+    height: 100px;
+    width: 250px;
+    background: white;
+    border: 5px solid red;
+    margin: 100px 1px 100px 105px; /*adds space outside the border*/ 
+    padding: 50px; /*adds space btw the border and the content*/
+    border-radius: 0% 20% 0% 0%;
+
+    background-image: url("headshot.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px 400px; 
+    background-attachment: fixed; 
+    background-position: top left;
+
+    
+}
+
+.bottom {
+    height: 150px;
+    width: 250px;
+    background: white;
+    border: 5px solid red;
+    margin: 100px 0px 100px -55px; /*adds space outside the border*/ 
+    padding: 50px; /*adds space btw the border and the content*/
+    border-radius: 0% 0% 0% 20%;
+}
+
+
+
+
+/* top of card*/
+.text-color {
+    color: white;
+    background-color: red;}
+
+
+        
+            
+       
+       
